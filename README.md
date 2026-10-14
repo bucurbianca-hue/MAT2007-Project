@@ -6,7 +6,7 @@ Research question: Is sleep duration associated with BMI category, and does stre
 
 Files in this folder
 - newdataanalysis.py - the anaylsis and plotting script
-- sleep_health_and_lifestyle.csv - the input data
+- Sleep_health_and_lifestyle.csv - the input data
 - boxplot_sleep_by_bmi.png - output, made by newdataanalysis.py
 - scatter_stress_vs_sleep.png - output, made by newdataanalysis.py
 - Programming_Project.pdf - report
